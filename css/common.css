@@ -1,0 +1,14 @@
+html,body,main {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  font-size: 12px;
+  line-height: 1.2;
+  background: #fff;
+}
+
+footer .active {
+  color: #ff5722;
+}
